@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\97798\\source\\repos\\Oop_Concept\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7507992B-B627-44B6-8B5B-A4D68FC41AFB}|Oop_Concept\\Oop_Concept.csproj|c:\\users\\97798\\source\\repos\\oop_concept\\oop_concept\\inheritence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7507992B-B627-44B6-8B5B-A4D68FC41AFB}|Oop_Concept\\Oop_Concept.csproj|solutionrelative:oop_concept\\inheritence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7507992B-B627-44B6-8B5B-A4D68FC41AFB}|Oop_Concept\\Oop_Concept.csproj|c:\\users\\97798\\source\\repos\\oop_concept\\oop_concept\\oop-concept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7507992B-B627-44B6-8B5B-A4D68FC41AFB}|Oop_Concept\\Oop_Concept.csproj|solutionrelative:oop_concept\\oop-concept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7507992B-B627-44B6-8B5B-A4D68FC41AFB}|Oop_Concept\\Oop_Concept.csproj|c:\\users\\97798\\source\\repos\\oop_concept\\oop_concept\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7507992B-B627-44B6-8B5B-A4D68FC41AFB}|Oop_Concept\\Oop_Concept.csproj|solutionrelative:oop_concept\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "inheritence.cs",
+              "DocumentMoniker": "C:\\Users\\97798\\source\\repos\\Oop_Concept\\Oop_Concept\\inheritence.cs",
+              "RelativeDocumentMoniker": "Oop_Concept\\inheritence.cs",
+              "ToolTip": "C:\\Users\\97798\\source\\repos\\Oop_Concept\\Oop_Concept\\inheritence.cs",
+              "RelativeToolTip": "Oop_Concept\\inheritence.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:52:41.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Oop-Concept.cs",
+              "DocumentMoniker": "C:\\Users\\97798\\source\\repos\\Oop_Concept\\Oop_Concept\\Oop-Concept.cs",
+              "RelativeDocumentMoniker": "Oop_Concept\\Oop-Concept.cs",
+              "ToolTip": "C:\\Users\\97798\\source\\repos\\Oop_Concept\\Oop_Concept\\Oop-Concept.cs",
+              "RelativeToolTip": "Oop_Concept\\Oop-Concept.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:26:57.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\97798\\source\\repos\\Oop_Concept\\Oop_Concept\\Program.cs",
+              "RelativeDocumentMoniker": "Oop_Concept\\Program.cs",
+              "ToolTip": "C:\\Users\\97798\\source\\repos\\Oop_Concept\\Oop_Concept\\Program.cs",
+              "RelativeToolTip": "Oop_Concept\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:09:45.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
